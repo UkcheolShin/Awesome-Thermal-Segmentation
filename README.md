@@ -59,11 +59,13 @@ Arxiv 22 | [CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transfo
 
 <h2>Dataset List</h2>
 
-|Publication|Title|Sensor|Scene Types|Dataset Link|Label Type|Highlight|
+|Publication|Title|Sensor|Scene Types|Label Type|Highlight|Dataset Link|
 |-|-|-|-|-|-|-|
+TNNLS 20 | [Segmenting objects in day and night: Edge-conditioned cnn for thermal image semantic segmentation](https://ieeexplore.ieee.org/abstract/document/9152142) | TBA | TBA | Semantic Seg | 2168 Real, 5000 synthetic images| [Here](https://github.com/ahucv/Homepage/blob/master/public/source/dataset.md) |
+Infrared Physics & Technology 21 | [Mcnet: Multilevel correction network for thermal image semantic segmentation of nighttime driving scene](https://www.sciencedirect.com/science/article/pii/S1350449520306769) |  TBA | Outdoor | TBA | Semantic Seg | [Here](https://github.com/SCUT-CV/SCUT_FIR_Pedestrian_Dataset) |
+
 
 ---
-
 
 # 4. Deep Thermal Segmentation
 
@@ -73,5 +75,8 @@ Arxiv 22 | [CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transfo
 
 |Publication|Title|Code|Highlight|
 |-|-|-|-|
+TNNLS 20 | [Segmenting objects in day and night: Edge-conditioned cnn for thermal image semantic segmentation](https://ieeexplore.ieee.org/abstract/document/9152142) | Here | TBA | 
+Infrared Physics & Technology 21 | [Mcnet: Multilevel correction network for thermal image semantic segmentation of nighttime driving scene](https://www.sciencedirect.com/science/article/pii/S1350449520306769) | [Here](https://github.com/haitaobiyao/MCNet) | TBA | 
+IEEE Access 21 | [Ftnet: Feature transverse network for thermal image semantic segmentation](https://ieeexplore.ieee.org/abstract/document/9585453) | [Here](https://github.com/shreyaskamathkm/FTNet)| TBA | 
 
 ---
